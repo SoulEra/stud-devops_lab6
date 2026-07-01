@@ -26,3 +26,4 @@ root@srv-devops:/home/user/my_homework6# curl http://localhost:5000
 Проверка через веб
 
 <img width="741" height="265" alt="1" src="https://github.com/user-attachments/assets/71077f18-50a3-41e1-a93f-77d47be63cca" />
+<img width="1695" height="897" alt="2" src="https://github.com/user-attachments/assets/b8c38bf7-b2ba-4121-820d-72e2d83b4ac4" />
