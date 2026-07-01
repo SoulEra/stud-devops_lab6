@@ -23,4 +23,5 @@ root@srv-devops:/home/user/my_homework6# curl http://localhost:5000
         <p>Вы посетили эту страницу 9 раз(а).</p>
     root@srv-devops:/home/user/my_homework6#
 ```
+Проверка через веб
 <img width="741" height="265" alt="1" src="https://github.com/user-attachments/assets/71077f18-50a3-41e1-a93f-77d47be63cca" />
